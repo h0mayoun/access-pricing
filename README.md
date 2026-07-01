@@ -1,7 +1,9 @@
-# Access-pricing simulations
+# Access-pricing figures and simulations
 
-Reproduces the figures from the paper.
-
+See the below notebooks that reproduce all the figures from the paper:
+    2DModel.ipynb
+    simulations.ipynb
+    
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install numpy scipy matplotlib jupyterlab
