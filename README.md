@@ -1,7 +1,9 @@
 # Access-pricing figures and simulations
 
 See the below notebooks that reproduce all the figures from the paper:
+
     2DModel.ipynb
+    
     simulations.ipynb
     
 ```bash
